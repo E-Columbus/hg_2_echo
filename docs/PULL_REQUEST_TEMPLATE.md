@@ -1,6 +1,6 @@
 # ECHO
 
-# Tipo de usuario
+## Tipo de usuario
 
 - [ ] Alfa
 - [ ] Bravo 
@@ -8,12 +8,12 @@
 - [ ] Delta
 - [ ] Echo
 
-# Tecnología
+## Tecnología
 
 - [ ] Javascript
 - [ ] Markdown
 
-# Seleccione el tipo de actividad
+## Seleccione el tipo de actividad
 
 - [ ] Feature
 - [ ] Hotfix
