@@ -1,1 +1,8 @@
-# hg_2_fox
+## FOX
+
+| Integrantes | Pais |
+| ----- | ----- |
+| xxxxxxx xxxxxxx | Venezuela |
+| xxxxxxx xxxxxxx | Venezuela |
+| xxxxxxx xxxxxxx | Venezuela |
+| Emir Colombo | Argentina |
