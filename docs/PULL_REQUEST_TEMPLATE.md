@@ -1,4 +1,4 @@
-## ECHO
+# ECHO
 
 # Tipo de usuario
 
@@ -8,7 +8,7 @@
 - [ ] Delta
 - [ ] Echo
 
-Tecnología
+# Tecnología
 
 - [ ] Javascript
 - [ ] Markdown
