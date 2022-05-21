@@ -2,8 +2,8 @@
 
 | Integrantes | Pais |
 | ----- | ----- |
-| xxxxxxx xxxxxxx | Venezuela |
-| xxxxxxx xxxxxxx | Venezuela |
-| xxxxxxx xxxxxxx | Venezuela |
-| xxxxxxx xxxxxxx | Venezuela |
+| Victor Kneider | Venezuela |
+| Wilfredo Pinto | Venezuela |
+| Enif Velasquez | Venezuela |
+| Federico Medina | Argentina |
 | Emir Colombo | Argentina |
